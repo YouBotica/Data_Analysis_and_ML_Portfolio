@@ -1,0 +1,10 @@
+SUPERVISED LEARNING PROCESS:
+
+1. Separate the data into features and label (x and y)
+2. Separate the dataset into a training set and a test set.
+3. Fit/train model.
+4. Evaluate its performance.
+
+If you are not satisfied with the model's performance, you can adjust the hyperparameters and re-train the model.
+
+

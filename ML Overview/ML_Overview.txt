@@ -1,0 +1,42 @@
+Machine learning has two main types:
+
+1. Supervised learning: predicting an output.
+2. Unsupervised learning: Discover patterns in data.
+
+
+Why Machine Learning?
+
+-ML in general is the study of  statistical computer algorithms, that improve automatically through data.
+-Unlike typical computer algorithms that rely on human input, ML algorithms infer the best approach from the data itself.
+-ML is a subset of artificial intelligence.
+-ML algorithms are not explicitly programmed on which decisions to make.
+-Instead, the ML algorithm is designed to infer from the data the optimal choices to make.
+
+Structure of ML problems:
+    - Given features from a data set, obtain a certain label.
+    - These algorithms are generally called estimators, since they estimate outputs or labels.
+
+Simple example:
+    - Predict the price of a house should sell at given its current features. (Area, bedrooms, bathrooms, etc.)
+    - A typical algorithm will depend on a human to manually set values of importance (weights) for each feature.
+
+
+There is a caveat: we need good data!
+
+
+TYPES OF ML:
+
+1. Supervised Learning: It requires historical and label data to be able to predict a value.
+    -Historical data: known 
+    -Labeled: The desired output is known.  
+    
+    Two main label types:
+        1. Categorical value to predict:
+            - Classification task.
+        2. Continuous value to predict:
+            - Regression task.
+    
+
+2. Unsupervised Learning: Applied to unlabeled data, the ML model discovers possible patterns in the data.
+- Group and interpret data without a label.
+- Since there is no historical "correct" label, it is much harder to evaluate the performance of the algorithm. 
